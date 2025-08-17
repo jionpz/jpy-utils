@@ -18,6 +18,7 @@ from . import crypto_utils
 from . import data_utils
 from . import system_utils
 from . import color_utils
+from . import visualization
 
 __all__ = [
     "file_utils",
@@ -28,4 +29,5 @@ __all__ = [
     "data_utils",
     "system_utils",
     "color_utils",
+    "visualization",
 ]
